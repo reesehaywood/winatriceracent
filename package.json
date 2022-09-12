@@ -1,0 +1,23 @@
+{
+  "name": "winatriceracent",
+  "version": "1.0.0",
+  "description": "Games to win a Triceracent",
+  "main": "frontend/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reesehaywood/winatriceracent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reesehaywood/winatriceracent/issues"
+  },
+  "homepage": "https://github.com/reesehaywood/winatriceracent#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
