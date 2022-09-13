@@ -2,8 +2,10 @@
   "name": "winatriceracent",
   "version": "1.0.0",
   "description": "Games to win a Triceracent",
-  "main": "frontend/index.js",
+  "main": "backend/index.js",
   "scripts": {
+    "start": "node backend/index.js",
+    "dev": "nodemon backend/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +20,7 @@
   },
   "homepage": "https://github.com/reesehaywood/winatriceracent#readme",
   "dependencies": {
+    "@supabase/supabase-js": "^1.35.6",
     "nodemon": "^2.0.19"
   }
 }
