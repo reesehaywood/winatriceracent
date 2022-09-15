@@ -1,3 +1,38 @@
 .hideme {
     display: none;
 }
+
+#homeLink {
+    cursor: pointer;
+}
+
+#rpsLink {
+    cursor: pointer;
+}
+
+#tttLink {
+    cursor: pointer;
+}
+
+#rock{
+    height: 25vh;
+    margin: 2vw;
+    cursor: pointer;
+}
+
+#paper{
+    width: 20vw;
+    margin: 2vw;
+    cursor: pointer;
+}
+
+#scissors{
+    width: 20vw;
+    margin: 2vw;
+    cursor: pointer;
+}
+
+#rpsCPU{
+    height: 25vh;
+
+}
