@@ -21,6 +21,11 @@
   "homepage": "https://github.com/reesehaywood/winatriceracent#readme",
   "dependencies": {
     "@supabase/supabase-js": "^1.35.6",
-    "nodemon": "^2.0.19"
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19",
+    "sqlite3": "^5.1.1"
   }
 }
